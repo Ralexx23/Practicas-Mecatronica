@@ -1,0 +1,36 @@
+`pragma protect begin_protected
+`pragma protect version="1.0"
+`pragma protect author="default"
+`pragma protect author_info="default"
+`pragma protect encrypt_agent="GOWIN"
+`pragma protect encrypt_agent_info="GOWIN Encrypt Version 1.0"
+
+`pragma protect encoding=(enctype="base64", line_length=76, bytes=256)
+`pragma protect key_keyowner="GOWIN",key_keyname="GWK2022-11",key_method="rsa"
+`pragma protect key_block
+EPJSVdMjRgTQxO00vi4m3vweyKLnZrUrKfyTiYRkIzcnzPBmI7kDBLwC0FJp14b5qZWeapDQMHSa
+e82Y8Zi/qkXOMI/peBg/uAMVrIq3Lvz2a6FjS4VRyszpxMNJTSdpm7MPF6jTvWaZq5YyRHwwIDM9
+OjiNtVkbcuPS1Z+stEoPRcOZbwD1ZhuLPk7k1pxyQbqIpQTwEHHItIr8Nt8eTXAtpO8yATNSD+uW
+iScRgAyy0nLwvgiAC2l52csrz3+meFTSDB1pkoneI+pi6LSDUp1w9yYzWp3lUOv/MX2ALxC9RH/D
+MO2XpNguRMaeQiprFM/5caUjCjh4YeWlSPhm9w==
+
+`pragma protect encoding=(enctype="base64", line_length=76, bytes=768)
+`pragma protect data_keyowner="default-ip-vendor"
+`pragma protect data_keyname="default-ip-key"
+`pragma protect data_method="aes128-cbc"
+`pragma protect data_block
+mhJC2dEfR4TfEGeTqQLUt2q9Zw0ri8IBMy9WhytOjnNJpfTVGqDdDjSJECqIW4Hcd4jwMjBTNkAD
+qUK4aObq3fx/K4TMr3ORXarQgRnMalCLdwIl/Dar8kIXZTLHPyO30v1EPZUn7YVz1OOf+csxhcoG
+oc85bCZLhMohauU6La85twZEAp5nSGCC/+ZvdWgKxIkntzr+7Fc/IDwQlvX0a/4AMcVu/4Z8J6YZ
+Spng+vqtOAWNKoRwQIz0Fx0s/WZZztpljvHc72/RzeozoPO8LsmZxNRvgAUUKuocfZaOshvijNUm
+H37vilgsmX0m/JCFByy/1726YDh7yR9JdxocRdy1RewmQElpz75zwPcfjCoJO9O8DG1ezXfN6nJr
+cg+pyL7T/1HsjdPya/y5UXntA4wQFWmwgZyjw8ZP7IuOv7DSkFjM4pXQ+cK2x8QENAPk6iicm4+A
+ECRChkjK/Q35oaB7F1MLl+1IW7owjYNgytEkkU0lFnLDssP2lYtaxchl6iVm06QsSDSotW0MI7Eo
+hU6d/7b6QUpE5h37cOfgnRCUw6e500emivCIEE02EVtWlvlhjz/AAMUTAioVoQJHm1wYO5JAdom0
+U8rS+c2+ckDkYU9mLEd1yKn7zDvNwgTLX3zB8tlhiWDToUMKiPdUiqvY6Py1oAyETPy2wlh7P/+N
+HjTJDwDntKwxXucFA4qgIgQjQcI2dRT2t1rZOT03BM3OET+Kgmm77cCBd5g5c678wYSWW4+z+Ave
+FrFVVva7vvNtszhyOTu+/w3ql+4DHKJ0GQ6v+uC8AOKuj+T1NxYD2QTTDYQZEnYZXnqjvbT8ECKR
+Wx3Rf0TJ+Uf9o6gVBTmQU7tMgbJuuRE+jwq7F4Gzev/Kz4sTePwzUB9HUlsPsmiAWa4VsEZT715I
+/ELskSxUeiFb9XNri2AdEveCNURakOSx4GJ7eANwQrWdpvsqEgWzeeklg7xHZqtHU+X0aaaofuik
+ZgofXbpTXEzzDy5uBPggZvBK9URJWDYy6aYu
+`pragma protect end_protected

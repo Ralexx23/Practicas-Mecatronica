@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="CALCULADORA" T_Lut="47(0)">
+ <SubModule name="MUX_IC" T_Lut="47(0)">
+  <SubModule name="MUX0" Lut="1" T_Lut="1(1)"/>
+  <SubModule name="MUX1" Lut="4" T_Lut="4(4)"/>
+  <SubModule name="MUX2" Lut="7" T_Lut="7(7)"/>
+  <SubModule name="MUX3" Lut="7" T_Lut="7(7)"/>
+  <SubModule name="MUX4" Lut="15" T_Lut="15(15)"/>
+  <SubModule name="MUX5" Lut="7" T_Lut="7(7)"/>
+  <SubModule name="MUX6" Lut="5" T_Lut="5(5)"/>
+  <SubModule name="MUX7" Lut="1" T_Lut="1(1)"/>
+ </SubModule>
+</Module>

@@ -1,0 +1,37 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\1er Parcial\Rotonda FPGA\src\AND.v'
+Analyzing Verilog file 'D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\1er Parcial\Rotonda FPGA\src\MAIN.v'
+Analyzing Verilog file 'D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\1er Parcial\Rotonda FPGA\src\NOT.v'
+Analyzing Verilog file 'D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\1er Parcial\Rotonda FPGA\src\OR.v'
+Compiling module 'TRAFFIC_LIGHT'("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\1er Parcial\Rotonda FPGA\src\MAIN.v":1)
+Compiling module 'NOT1'("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\1er Parcial\Rotonda FPGA\src\NOT.v":2)
+Compiling module 'OR1'("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\1er Parcial\Rotonda FPGA\src\OR.v":2)
+Compiling module 'OR2'("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\1er Parcial\Rotonda FPGA\src\OR.v":17)
+Compiling module 'AND1'("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\1er Parcial\Rotonda FPGA\src\AND.v":2)
+Compiling module 'AND2'("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\1er Parcial\Rotonda FPGA\src\AND.v":17)
+Compiling module 'AND3'("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\1er Parcial\Rotonda FPGA\src\AND.v":32)
+NOTE  (EX0101) : Current top module is "TRAFFIC_LIGHT"
+[5%] Running netlist conversion ...
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+WARN  (NL0002) : The module "AND1" instantiated to "IC_AND1" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\1er Parcial\Rotonda FPGA\src\MAIN.v":67)
+WARN  (NL0002) : The module "AND2" instantiated to "IC_AND2" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\1er Parcial\Rotonda FPGA\src\MAIN.v":80)
+WARN  (NL0002) : The module "AND3" instantiated to "IC_AND3" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\1er Parcial\Rotonda FPGA\src\MAIN.v":93)
+WARN  (NL0002) : The module "NOT1" instantiated to "IC_NOT" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\1er Parcial\Rotonda FPGA\src\MAIN.v":26)
+[95%] Generate netlist file "D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\1er Parcial\Rotonda FPGA\impl\gwsynthesis\Rotonda FPGA.vg" completed
+[100%] Generate report file "D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\1er Parcial\Rotonda FPGA\impl\gwsynthesis\Rotonda FPGA_syn.rpt.html" completed
+GowinSynthesis finish

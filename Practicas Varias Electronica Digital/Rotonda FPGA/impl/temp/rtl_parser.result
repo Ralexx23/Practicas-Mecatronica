@@ -1,0 +1,60 @@
+[
+ {
+  "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/1er Parcial/Rotonda FPGA/src/MAIN.v",
+  "InstLine" : 1,
+  "InstName" : "TRAFFIC_LIGHT",
+  "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/1er Parcial/Rotonda FPGA/src/MAIN.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "TRAFFIC_LIGHT",
+  "SubInsts" : [
+   {
+    "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/1er Parcial/Rotonda FPGA/src/MAIN.v",
+    "InstLine" : 16,
+    "InstName" : "IC_NOT",
+    "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/1er Parcial/Rotonda FPGA/src/NOT.v",
+    "ModuleLine" : 2,
+    "ModuleName" : "NOT1"
+   },
+   {
+    "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/1er Parcial/Rotonda FPGA/src/MAIN.v",
+    "InstLine" : 30,
+    "InstName" : "IC_OR1",
+    "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/1er Parcial/Rotonda FPGA/src/OR.v",
+    "ModuleLine" : 2,
+    "ModuleName" : "OR1"
+   },
+   {
+    "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/1er Parcial/Rotonda FPGA/src/MAIN.v",
+    "InstLine" : 43,
+    "InstName" : "IC_OR2",
+    "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/1er Parcial/Rotonda FPGA/src/OR.v",
+    "ModuleLine" : 17,
+    "ModuleName" : "OR2"
+   },
+   {
+    "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/1er Parcial/Rotonda FPGA/src/MAIN.v",
+    "InstLine" : 57,
+    "InstName" : "IC_AND1",
+    "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/1er Parcial/Rotonda FPGA/src/AND.v",
+    "ModuleLine" : 2,
+    "ModuleName" : "AND1"
+   },
+   {
+    "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/1er Parcial/Rotonda FPGA/src/MAIN.v",
+    "InstLine" : 70,
+    "InstName" : "IC_AND2",
+    "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/1er Parcial/Rotonda FPGA/src/AND.v",
+    "ModuleLine" : 17,
+    "ModuleName" : "AND2"
+   },
+   {
+    "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/1er Parcial/Rotonda FPGA/src/MAIN.v",
+    "InstLine" : 83,
+    "InstName" : "IC_AND3",
+    "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/1er Parcial/Rotonda FPGA/src/AND.v",
+    "ModuleLine" : 32,
+    "ModuleName" : "AND3"
+   }
+  ]
+ }
+]

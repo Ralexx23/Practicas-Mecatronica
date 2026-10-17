@@ -1,0 +1,57 @@
+{
+ "Device" : "GW5A-25A",
+ "Files" : [
+  {
+   "Path" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/ADDER.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/Checkquality.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/ComIgualdad.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/CompMayor.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/FULLADDER.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MAIN.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MULTIPLIER}.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MUX4TO1.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MUX8TO1.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/NOT.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/SUBTRACTOR.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/impl/temp/rtl_parser.result",
+ "Top" : "",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}

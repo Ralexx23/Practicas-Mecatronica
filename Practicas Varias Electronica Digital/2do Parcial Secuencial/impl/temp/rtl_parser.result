@@ -1,0 +1,204 @@
+[
+ {
+  "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+  "InstLine" : 160,
+  "InstName" : "FF_T",
+  "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+  "ModuleLine" : 160,
+  "ModuleName" : "FF_T"
+ },
+ {
+  "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+  "InstLine" : 610,
+  "InstName" : "MAIN",
+  "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+  "ModuleLine" : 610,
+  "ModuleName" : "MAIN",
+  "SubInsts" : [
+   {
+    "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+    "InstLine" : 620,
+    "InstName" : "CLK_DVD",
+    "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+    "ModuleLine" : 173,
+    "ModuleName" : "CLOCK_DIVIDER"
+   },
+   {
+    "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+    "InstLine" : 625,
+    "InstName" : "I_FF_D3",
+    "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+    "ModuleLine" : 2,
+    "ModuleName" : "INPUTS_FF_D3"
+   },
+   {
+    "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+    "InstLine" : 635,
+    "InstName" : "I_FF_D2",
+    "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+    "ModuleLine" : 41,
+    "ModuleName" : "INPUTS_FF_D2"
+   },
+   {
+    "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+    "InstLine" : 645,
+    "InstName" : "I_FF_D1",
+    "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+    "ModuleLine" : 80,
+    "ModuleName" : "INPUTS_FF_D1"
+   },
+   {
+    "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+    "InstLine" : 655,
+    "InstName" : "I_FF_D0",
+    "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+    "ModuleLine" : 120,
+    "ModuleName" : "INPUTS_FF_D0"
+   },
+   {
+    "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+    "InstLine" : 661,
+    "InstName" : "FF_A",
+    "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+    "ModuleLine" : 131,
+    "ModuleName" : "FF_D"
+   },
+   {
+    "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+    "InstLine" : 668,
+    "InstName" : "FF_B",
+    "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+    "ModuleLine" : 131,
+    "ModuleName" : "FF_D"
+   },
+   {
+    "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+    "InstLine" : 675,
+    "InstName" : "FF_C",
+    "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+    "ModuleLine" : 131,
+    "ModuleName" : "FF_D"
+   },
+   {
+    "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+    "InstLine" : 682,
+    "InstName" : "FF_D",
+    "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+    "ModuleLine" : 131,
+    "ModuleName" : "FF_D"
+   },
+   {
+    "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+    "InstLine" : 689,
+    "InstName" : "DEC_Da",
+    "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+    "ModuleLine" : 194,
+    "ModuleName" : "DECODER_Da"
+   },
+   {
+    "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+    "InstLine" : 698,
+    "InstName" : "DEC_Db",
+    "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+    "ModuleLine" : 228,
+    "ModuleName" : "DECODER_Db"
+   },
+   {
+    "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+    "InstLine" : 707,
+    "InstName" : "DEC_Dc",
+    "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+    "ModuleLine" : 263,
+    "ModuleName" : "DECODER_Dc"
+   },
+   {
+    "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+    "InstLine" : 716,
+    "InstName" : "DEC_Dd",
+    "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+    "ModuleLine" : 294,
+    "ModuleName" : "DECODER_Dd"
+   },
+   {
+    "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+    "InstLine" : 725,
+    "InstName" : "DEC_De",
+    "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+    "ModuleLine" : 326,
+    "ModuleName" : "DECODER_De"
+   },
+   {
+    "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+    "InstLine" : 734,
+    "InstName" : "DEC_Df",
+    "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+    "ModuleLine" : 363,
+    "ModuleName" : "DECODER_Df"
+   },
+   {
+    "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+    "InstLine" : 743,
+    "InstName" : "DEC_Dg",
+    "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+    "ModuleLine" : 397,
+    "ModuleName" : "DECODER_Dg"
+   },
+   {
+    "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+    "InstLine" : 752,
+    "InstName" : "DEC_Ia",
+    "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+    "ModuleLine" : 425,
+    "ModuleName" : "DECODER_Ia"
+   },
+   {
+    "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+    "InstLine" : 761,
+    "InstName" : "DEC_Ib",
+    "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+    "ModuleLine" : 455,
+    "ModuleName" : "DECODER_Ib"
+   },
+   {
+    "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+    "InstLine" : 770,
+    "InstName" : "DEC_Ic",
+    "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+    "ModuleLine" : 482,
+    "ModuleName" : "DECODER_Ic"
+   },
+   {
+    "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+    "InstLine" : 779,
+    "InstName" : "DEC_Id",
+    "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+    "ModuleLine" : 507,
+    "ModuleName" : "DECODER_Id"
+   },
+   {
+    "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+    "InstLine" : 788,
+    "InstName" : "DEC_Ie",
+    "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+    "ModuleLine" : 533,
+    "ModuleName" : "DECODER_Ie"
+   },
+   {
+    "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+    "InstLine" : 797,
+    "InstName" : "DEC_If",
+    "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+    "ModuleLine" : 561,
+    "ModuleName" : "DECODER_If"
+   },
+   {
+    "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+    "InstLine" : 806,
+    "InstName" : "DEC_Ig",
+    "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+    "ModuleLine" : 587,
+    "ModuleName" : "DECODER_Ig"
+   }
+  ]
+ }
+]

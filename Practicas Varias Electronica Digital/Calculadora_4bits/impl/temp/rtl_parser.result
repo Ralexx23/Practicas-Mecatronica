@@ -1,0 +1,470 @@
+[
+ {
+  "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MAIN.v",
+  "InstLine" : 2,
+  "InstName" : "CALCULADORA",
+  "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MAIN.v",
+  "ModuleLine" : 2,
+  "ModuleName" : "CALCULADORA",
+  "SubInsts" : [
+   {
+    "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MAIN.v",
+    "InstLine" : 15,
+    "InstName" : "ADDER_IC",
+    "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/ADDER.v",
+    "ModuleLine" : 2,
+    "ModuleName" : "ADDER_4BITS",
+    "SubInsts" : [
+     {
+      "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/ADDER.v",
+      "InstLine" : 14,
+      "InstName" : "FA0",
+      "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/FULLADDER.v",
+      "ModuleLine" : 2,
+      "ModuleName" : "FULL_ADDER"
+     },
+     {
+      "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/ADDER.v",
+      "InstLine" : 23,
+      "InstName" : "FA1",
+      "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/FULLADDER.v",
+      "ModuleLine" : 2,
+      "ModuleName" : "FULL_ADDER"
+     },
+     {
+      "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/ADDER.v",
+      "InstLine" : 32,
+      "InstName" : "FA2",
+      "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/FULLADDER.v",
+      "ModuleLine" : 2,
+      "ModuleName" : "FULL_ADDER"
+     },
+     {
+      "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/ADDER.v",
+      "InstLine" : 41,
+      "InstName" : "FA3",
+      "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/FULLADDER.v",
+      "ModuleLine" : 2,
+      "ModuleName" : "FULL_ADDER"
+     }
+    ]
+   },
+   {
+    "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MAIN.v",
+    "InstLine" : 24,
+    "InstName" : "SUBTRACTOR_IC",
+    "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/SUBTRACTOR.v",
+    "ModuleLine" : 2,
+    "ModuleName" : "SUBTRACTOR_4BITS",
+    "SubInsts" : [
+     {
+      "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/SUBTRACTOR.v",
+      "InstLine" : 15,
+      "InstName" : "NOT_IC",
+      "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/NOT.v",
+      "ModuleLine" : 2,
+      "ModuleName" : "NOT"
+     },
+     {
+      "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/SUBTRACTOR.v",
+      "InstLine" : 28,
+      "InstName" : "ADDER_IC",
+      "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/ADDER.v",
+      "ModuleLine" : 2,
+      "ModuleName" : "ADDER_4BITS",
+      "SubInsts" : [
+       {
+        "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/ADDER.v",
+        "InstLine" : 14,
+        "InstName" : "FA0",
+        "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/FULLADDER.v",
+        "ModuleLine" : 2,
+        "ModuleName" : "FULL_ADDER"
+       },
+       {
+        "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/ADDER.v",
+        "InstLine" : 23,
+        "InstName" : "FA1",
+        "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/FULLADDER.v",
+        "ModuleLine" : 2,
+        "ModuleName" : "FULL_ADDER"
+       },
+       {
+        "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/ADDER.v",
+        "InstLine" : 32,
+        "InstName" : "FA2",
+        "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/FULLADDER.v",
+        "ModuleLine" : 2,
+        "ModuleName" : "FULL_ADDER"
+       },
+       {
+        "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/ADDER.v",
+        "InstLine" : 41,
+        "InstName" : "FA3",
+        "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/FULLADDER.v",
+        "ModuleLine" : 2,
+        "ModuleName" : "FULL_ADDER"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MAIN.v",
+    "InstLine" : 33,
+    "InstName" : "MULTIPLIER_IC",
+    "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MULTIPLIER}.v",
+    "ModuleLine" : 2,
+    "ModuleName" : "MULTIPLIER_4BITS",
+    "SubInsts" : [
+     {
+      "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MULTIPLIER}.v",
+      "InstLine" : 46,
+      "InstName" : "FA1_0",
+      "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/FULLADDER.v",
+      "ModuleLine" : 2,
+      "ModuleName" : "FULL_ADDER"
+     },
+     {
+      "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MULTIPLIER}.v",
+      "InstLine" : 54,
+      "InstName" : "FA1_1",
+      "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/FULLADDER.v",
+      "ModuleLine" : 2,
+      "ModuleName" : "FULL_ADDER"
+     },
+     {
+      "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MULTIPLIER}.v",
+      "InstLine" : 62,
+      "InstName" : "FA1_2",
+      "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/FULLADDER.v",
+      "ModuleLine" : 2,
+      "ModuleName" : "FULL_ADDER"
+     },
+     {
+      "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MULTIPLIER}.v",
+      "InstLine" : 70,
+      "InstName" : "FA1_3",
+      "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/FULLADDER.v",
+      "ModuleLine" : 2,
+      "ModuleName" : "FULL_ADDER"
+     },
+     {
+      "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MULTIPLIER}.v",
+      "InstLine" : 85,
+      "InstName" : "FA2_0",
+      "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/FULLADDER.v",
+      "ModuleLine" : 2,
+      "ModuleName" : "FULL_ADDER"
+     },
+     {
+      "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MULTIPLIER}.v",
+      "InstLine" : 93,
+      "InstName" : "FA2_1",
+      "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/FULLADDER.v",
+      "ModuleLine" : 2,
+      "ModuleName" : "FULL_ADDER"
+     },
+     {
+      "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MULTIPLIER}.v",
+      "InstLine" : 101,
+      "InstName" : "FA2_2",
+      "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/FULLADDER.v",
+      "ModuleLine" : 2,
+      "ModuleName" : "FULL_ADDER"
+     },
+     {
+      "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MULTIPLIER}.v",
+      "InstLine" : 109,
+      "InstName" : "FA2_3",
+      "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/FULLADDER.v",
+      "ModuleLine" : 2,
+      "ModuleName" : "FULL_ADDER"
+     },
+     {
+      "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MULTIPLIER}.v",
+      "InstLine" : 124,
+      "InstName" : "FA3_0",
+      "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/FULLADDER.v",
+      "ModuleLine" : 2,
+      "ModuleName" : "FULL_ADDER"
+     },
+     {
+      "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MULTIPLIER}.v",
+      "InstLine" : 132,
+      "InstName" : "FA3_1",
+      "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/FULLADDER.v",
+      "ModuleLine" : 2,
+      "ModuleName" : "FULL_ADDER"
+     },
+     {
+      "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MULTIPLIER}.v",
+      "InstLine" : 140,
+      "InstName" : "FA3_2",
+      "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/FULLADDER.v",
+      "ModuleLine" : 2,
+      "ModuleName" : "FULL_ADDER"
+     },
+     {
+      "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MULTIPLIER}.v",
+      "InstLine" : 148,
+      "InstName" : "FA3_3",
+      "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/FULLADDER.v",
+      "ModuleLine" : 2,
+      "ModuleName" : "FULL_ADDER"
+     }
+    ]
+   },
+   {
+    "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MAIN.v",
+    "InstLine" : 40,
+    "InstName" : "IG",
+    "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/ComIgualdad.v",
+    "ModuleLine" : 2,
+    "ModuleName" : "COM_I"
+   },
+   {
+    "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MAIN.v",
+    "InstLine" : 55,
+    "InstName" : "CE",
+    "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/Checkquality.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "CHECK_E"
+   },
+   {
+    "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MAIN.v",
+    "InstLine" : 71,
+    "InstName" : "CM",
+    "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/CompMayor.v",
+    "ModuleLine" : 2,
+    "ModuleName" : "COMP_M"
+   },
+   {
+    "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MAIN.v",
+    "InstLine" : 90,
+    "InstName" : "CN",
+    "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/CompMayor.v",
+    "ModuleLine" : 2,
+    "ModuleName" : "COMP_M"
+   },
+   {
+    "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MAIN.v",
+    "InstLine" : 110,
+    "InstName" : "MUX_IC",
+    "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MUX8TO1.v",
+    "ModuleLine" : 2,
+    "ModuleName" : "MULTIPLEXER_8BITS_4TO1",
+    "SubInsts" : [
+     {
+      "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MUX8TO1.v",
+      "InstLine" : 13,
+      "InstName" : "MUX0",
+      "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MUX4TO1.v",
+      "ModuleLine" : 2,
+      "ModuleName" : "MULTIPLEXER_4TO1",
+      "SubInsts" : [
+       {
+        "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MUX4TO1.v",
+        "InstLine" : 13,
+        "InstName" : "N1",
+        "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/NOT.v",
+        "ModuleLine" : 2,
+        "ModuleName" : "NOT"
+       },
+       {
+        "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MUX4TO1.v",
+        "InstLine" : 18,
+        "InstName" : "N2",
+        "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/NOT.v",
+        "ModuleLine" : 2,
+        "ModuleName" : "NOT"
+       }
+      ]
+     },
+     {
+      "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MUX8TO1.v",
+      "InstLine" : 19,
+      "InstName" : "MUX1",
+      "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MUX4TO1.v",
+      "ModuleLine" : 2,
+      "ModuleName" : "MULTIPLEXER_4TO1",
+      "SubInsts" : [
+       {
+        "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MUX4TO1.v",
+        "InstLine" : 13,
+        "InstName" : "N1",
+        "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/NOT.v",
+        "ModuleLine" : 2,
+        "ModuleName" : "NOT"
+       },
+       {
+        "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MUX4TO1.v",
+        "InstLine" : 18,
+        "InstName" : "N2",
+        "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/NOT.v",
+        "ModuleLine" : 2,
+        "ModuleName" : "NOT"
+       }
+      ]
+     },
+     {
+      "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MUX8TO1.v",
+      "InstLine" : 25,
+      "InstName" : "MUX2",
+      "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MUX4TO1.v",
+      "ModuleLine" : 2,
+      "ModuleName" : "MULTIPLEXER_4TO1",
+      "SubInsts" : [
+       {
+        "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MUX4TO1.v",
+        "InstLine" : 13,
+        "InstName" : "N1",
+        "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/NOT.v",
+        "ModuleLine" : 2,
+        "ModuleName" : "NOT"
+       },
+       {
+        "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MUX4TO1.v",
+        "InstLine" : 18,
+        "InstName" : "N2",
+        "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/NOT.v",
+        "ModuleLine" : 2,
+        "ModuleName" : "NOT"
+       }
+      ]
+     },
+     {
+      "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MUX8TO1.v",
+      "InstLine" : 31,
+      "InstName" : "MUX3",
+      "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MUX4TO1.v",
+      "ModuleLine" : 2,
+      "ModuleName" : "MULTIPLEXER_4TO1",
+      "SubInsts" : [
+       {
+        "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MUX4TO1.v",
+        "InstLine" : 13,
+        "InstName" : "N1",
+        "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/NOT.v",
+        "ModuleLine" : 2,
+        "ModuleName" : "NOT"
+       },
+       {
+        "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MUX4TO1.v",
+        "InstLine" : 18,
+        "InstName" : "N2",
+        "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/NOT.v",
+        "ModuleLine" : 2,
+        "ModuleName" : "NOT"
+       }
+      ]
+     },
+     {
+      "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MUX8TO1.v",
+      "InstLine" : 37,
+      "InstName" : "MUX4",
+      "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MUX4TO1.v",
+      "ModuleLine" : 2,
+      "ModuleName" : "MULTIPLEXER_4TO1",
+      "SubInsts" : [
+       {
+        "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MUX4TO1.v",
+        "InstLine" : 13,
+        "InstName" : "N1",
+        "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/NOT.v",
+        "ModuleLine" : 2,
+        "ModuleName" : "NOT"
+       },
+       {
+        "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MUX4TO1.v",
+        "InstLine" : 18,
+        "InstName" : "N2",
+        "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/NOT.v",
+        "ModuleLine" : 2,
+        "ModuleName" : "NOT"
+       }
+      ]
+     },
+     {
+      "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MUX8TO1.v",
+      "InstLine" : 43,
+      "InstName" : "MUX5",
+      "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MUX4TO1.v",
+      "ModuleLine" : 2,
+      "ModuleName" : "MULTIPLEXER_4TO1",
+      "SubInsts" : [
+       {
+        "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MUX4TO1.v",
+        "InstLine" : 13,
+        "InstName" : "N1",
+        "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/NOT.v",
+        "ModuleLine" : 2,
+        "ModuleName" : "NOT"
+       },
+       {
+        "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MUX4TO1.v",
+        "InstLine" : 18,
+        "InstName" : "N2",
+        "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/NOT.v",
+        "ModuleLine" : 2,
+        "ModuleName" : "NOT"
+       }
+      ]
+     },
+     {
+      "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MUX8TO1.v",
+      "InstLine" : 49,
+      "InstName" : "MUX6",
+      "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MUX4TO1.v",
+      "ModuleLine" : 2,
+      "ModuleName" : "MULTIPLEXER_4TO1",
+      "SubInsts" : [
+       {
+        "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MUX4TO1.v",
+        "InstLine" : 13,
+        "InstName" : "N1",
+        "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/NOT.v",
+        "ModuleLine" : 2,
+        "ModuleName" : "NOT"
+       },
+       {
+        "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MUX4TO1.v",
+        "InstLine" : 18,
+        "InstName" : "N2",
+        "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/NOT.v",
+        "ModuleLine" : 2,
+        "ModuleName" : "NOT"
+       }
+      ]
+     },
+     {
+      "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MUX8TO1.v",
+      "InstLine" : 54,
+      "InstName" : "MUX7",
+      "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MUX4TO1.v",
+      "ModuleLine" : 2,
+      "ModuleName" : "MULTIPLEXER_4TO1",
+      "SubInsts" : [
+       {
+        "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MUX4TO1.v",
+        "InstLine" : 13,
+        "InstName" : "N1",
+        "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/NOT.v",
+        "ModuleLine" : 2,
+        "ModuleName" : "NOT"
+       },
+       {
+        "InstFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/MUX4TO1.v",
+        "InstLine" : 18,
+        "InstName" : "N2",
+        "ModuleFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/Calculadora_4bits/src/NOT.v",
+        "ModuleLine" : 2,
+        "ModuleName" : "NOT"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

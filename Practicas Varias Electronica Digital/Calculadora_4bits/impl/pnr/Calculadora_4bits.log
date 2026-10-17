@@ -1,0 +1,29 @@
+Reading netlist file: "D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\impl\gwsynthesis\Calculadora_4bits.vg"
+Parsing netlist file "D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\impl\gwsynthesis\Calculadora_4bits.vg" completed
+Processing netlist completed
+Reading constraint file: "D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\Calculadora_4bits.cst"
+Physical Constraint parsed completed
+Running placement......
+[10%] Placement Phase 0 completed
+[20%] Placement Phase 1 completed
+[30%] Placement Phase 2 completed
+[50%] Placement Phase 3 completed
+Running routing......
+[60%] Routing Phase 0 completed
+[70%] Routing Phase 1 completed
+[80%] Routing Phase 2 completed
+[90%] Routing Phase 3 completed
+Running timing analysis......
+[95%] Timing analysis completed
+Placement and routing completed
+Bitstream generation in progress......
+Bitstream generation completed
+Running power analysis......
+[100%] Power analysis completed
+Generate file "D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\impl\pnr\Calculadora_4bits.power.html" completed
+Generate file "D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\impl\pnr\Calculadora_4bits.pin.html" completed
+Generate file "D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\impl\pnr\Calculadora_4bits.rpt.html" completed
+Generate file "D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\impl\pnr\Calculadora_4bits.rpt.txt" completed
+Generate file "D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\impl\pnr\Calculadora_4bits.tr.html" completed
+Tue Oct 21 07:28:13 2025
+

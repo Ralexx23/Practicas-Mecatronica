@@ -1,0 +1,29 @@
+Reading netlist file: "D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\1er Parcial\Rotonda FPGA\impl\gwsynthesis\Rotonda FPGA.vg"
+Parsing netlist file "D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\1er Parcial\Rotonda FPGA\impl\gwsynthesis\Rotonda FPGA.vg" completed
+Processing netlist completed
+Reading constraint file: "D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\1er Parcial\Rotonda FPGA\src\Rotonda FPGA.cst"
+Physical Constraint parsed completed
+Running placement......
+[10%] Placement Phase 0 completed
+[20%] Placement Phase 1 completed
+[30%] Placement Phase 2 completed
+[50%] Placement Phase 3 completed
+Running routing......
+[60%] Routing Phase 0 completed
+[70%] Routing Phase 1 completed
+[80%] Routing Phase 2 completed
+[90%] Routing Phase 3 completed
+Running timing analysis......
+[95%] Timing analysis completed
+Placement and routing completed
+Bitstream generation in progress......
+Bitstream generation completed
+Running power analysis......
+[100%] Power analysis completed
+Generate file "D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\1er Parcial\Rotonda FPGA\impl\pnr\Rotonda FPGA.power.html" completed
+Generate file "D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\1er Parcial\Rotonda FPGA\impl\pnr\Rotonda FPGA.pin.html" completed
+Generate file "D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\1er Parcial\Rotonda FPGA\impl\pnr\Rotonda FPGA.rpt.html" completed
+Generate file "D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\1er Parcial\Rotonda FPGA\impl\pnr\Rotonda FPGA.rpt.txt" completed
+Generate file "D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\1er Parcial\Rotonda FPGA\impl\pnr\Rotonda FPGA.tr.html" completed
+Sun Oct  5 19:55:26 2025
+

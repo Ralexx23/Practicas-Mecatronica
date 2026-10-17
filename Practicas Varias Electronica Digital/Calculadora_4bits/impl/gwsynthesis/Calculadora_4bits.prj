@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gowin-synthesis-project>
+<Project>
+    <Version>beta</Version>
+    <Device id="GW5A-25A" package="MBGA121N" speed="1" partNumber="GW5A-LV25MG121NC1/I0"/>
+    <FileList>
+        <File path="D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\ADDER.v" type="verilog"/>
+        <File path="D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\FULLADDER.v" type="verilog"/>
+        <File path="D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MAIN.v" type="verilog"/>
+        <File path="D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MULTIPLIER}.v" type="verilog"/>
+        <File path="D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MUX4TO1.v" type="verilog"/>
+        <File path="D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MUX8TO1.v" type="verilog"/>
+        <File path="D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\NOT.v" type="verilog"/>
+        <File path="D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\SUBTRACTOR.v" type="verilog"/>
+        <File path="D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\ComIgualdad.v" type="verilog"/>
+        <File path="D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\Checkquality.v" type="verilog"/>
+        <File path="D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\CompMayor.v" type="verilog"/>
+    </FileList>
+    <OptionList>
+        <Option type="disable_insert_pad" value="0"/>
+        <Option type="enable_dsrm" value="0"/>
+        <Option type="global_freq" value="100.000"/>
+        <Option type="looplimit" value="2000"/>
+        <Option type="output_file" value="D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\impl\gwsynthesis\Calculadora_4bits.vg"/>
+        <Option type="print_all_synthesis_warning" value="0"/>
+        <Option type="ram_rw_check" value="0"/>
+        <Option type="vcc" value="0.9"/>
+        <Option type="verilog_language" value="verilog-2001"/>
+        <Option type="vhdl_language" value="vhdl-1993"/>
+    </OptionList>
+</Project>

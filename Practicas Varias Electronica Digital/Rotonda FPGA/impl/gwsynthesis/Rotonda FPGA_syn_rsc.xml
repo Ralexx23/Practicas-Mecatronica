@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="TRAFFIC_LIGHT" T_Lut="4(0)">
+ <SubModule name="IC_OR1" Lut="2" T_Lut="2(2)"/>
+ <SubModule name="IC_OR2" Lut="2" T_Lut="2(2)"/>
+</Module>

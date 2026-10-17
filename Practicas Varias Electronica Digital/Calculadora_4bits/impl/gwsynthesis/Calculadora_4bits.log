@@ -1,0 +1,107 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\ADDER.v'
+Analyzing Verilog file 'D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\FULLADDER.v'
+Analyzing Verilog file 'D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MAIN.v'
+Analyzing Verilog file 'D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MULTIPLIER}.v'
+Analyzing Verilog file 'D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MUX4TO1.v'
+Analyzing Verilog file 'D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MUX8TO1.v'
+Analyzing Verilog file 'D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\NOT.v'
+Analyzing Verilog file 'D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\SUBTRACTOR.v'
+Analyzing Verilog file 'D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\ComIgualdad.v'
+Analyzing Verilog file 'D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\Checkquality.v'
+Analyzing Verilog file 'D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\CompMayor.v'
+Compiling module 'CALCULADORA'("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MAIN.v":2)
+Compiling module 'ADDER_4BITS'("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\ADDER.v":2)
+Compiling module 'FULL_ADDER'("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\FULLADDER.v":2)
+WARN  (EX3670) : Actual bit length 32 differs from formal bit length 1 for port 'Cin'("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\ADDER.v":17)
+Compiling module 'SUBTRACTOR_4BITS'("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\SUBTRACTOR.v":2)
+Compiling module 'NOT'("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\NOT.v":2)
+Compiling module 'ADDER_4BITS(Cin=1)'("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\ADDER.v":2)
+WARN  (EX3670) : Actual bit length 32 differs from formal bit length 1 for port 'Cin'("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\ADDER.v":17)
+Compiling module 'MULTIPLIER_4BITS'("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MULTIPLIER}.v":2)
+Compiling module 'COM_I'("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\ComIgualdad.v":2)
+Compiling module 'CHECK_E'("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\Checkquality.v":1)
+Compiling module 'COMP_M'("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\CompMayor.v":2)
+Compiling module 'MULTIPLEXER_8BITS_4TO1'("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MUX8TO1.v":2)
+WARN  (EX3073) : Port 'NE2' remains unconnected for this instance("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MUX4TO1.v":16)
+WARN  (EX3073) : Port 'NE2' remains unconnected for this instance("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MUX4TO1.v":21)
+Compiling module 'MULTIPLEXER_4TO1'("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MUX4TO1.v":2)
+WARN  (EX3790) : Actual bit length 32 differs from formal bit length 1("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MUX4TO1.v":27)
+WARN  (EX2565) : Input 'NE2' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MUX4TO1.v":16)
+WARN  (EX2565) : Input 'NE3' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MUX4TO1.v":16)
+WARN  (EX2565) : Input 'NE4' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MUX4TO1.v":16)
+WARN  (EX2565) : Input 'NE2' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MUX4TO1.v":21)
+WARN  (EX2565) : Input 'NE3' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MUX4TO1.v":21)
+WARN  (EX2565) : Input 'NE4' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MUX4TO1.v":21)
+WARN  (EX3670) : Actual bit length 4 differs from formal bit length 8 for port 'D3'("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MAIN.v":114)
+WARN  (EX1998) : Net 'Sum[7]' does not have a driver("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MAIN.v":11)
+WARN  (EX1998) : Net 'Sub[7]' does not have a driver("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MAIN.v":11)
+WARN  (EX1998) : Net 'Comp[3]' does not have a driver("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MAIN.v":12)
+NOTE  (EX0101) : Current top module is "CALCULADORA"
+[5%] Running netlist conversion ...
+WARN  (CV0018) : Input A[4] is unused("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MAIN.v":4)
+WARN  (CV0018) : Input B[4] is unused("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MAIN.v":5)
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+WARN  (NL0002) : The module "ADDER_4BITS" instantiated to "ADDER_IC" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MAIN.v":21)
+WARN  (NL0002) : The module "FULL_ADDER" instantiated to "FA0" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\ADDER.v":21)
+WARN  (NL0002) : The module "FULL_ADDER" instantiated to "FA1" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\ADDER.v":30)
+WARN  (NL0002) : The module "FULL_ADDER" instantiated to "FA2" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\ADDER.v":39)
+WARN  (NL0002) : The module "FULL_ADDER" instantiated to "FA3" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\ADDER.v":48)
+WARN  (NL0002) : The module "CHECK_E" instantiated to "CE" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MAIN.v":69)
+WARN  (NL0002) : The module "COMP_M" instantiated to "CM" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MAIN.v":88)
+WARN  (NL0002) : The module "COMP_M" instantiated to "CN" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MAIN.v":107)
+WARN  (NL0002) : The module "COM_I" instantiated to "IG" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MAIN.v":53)
+WARN  (NL0002) : The module "MULTIPLIER_4BITS" instantiated to "MULTIPLIER_IC" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MAIN.v":38)
+WARN  (NL0002) : The module "FULL_ADDER" instantiated to "FA1_0" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MULTIPLIER}.v":53)
+WARN  (NL0002) : The module "FULL_ADDER" instantiated to "FA1_1" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MULTIPLIER}.v":61)
+WARN  (NL0002) : The module "FULL_ADDER" instantiated to "FA1_2" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MULTIPLIER}.v":69)
+WARN  (NL0002) : The module "FULL_ADDER" instantiated to "FA1_3" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MULTIPLIER}.v":77)
+WARN  (NL0002) : The module "FULL_ADDER" instantiated to "FA2_0" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MULTIPLIER}.v":92)
+WARN  (NL0002) : The module "FULL_ADDER" instantiated to "FA2_1" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MULTIPLIER}.v":100)
+WARN  (NL0002) : The module "FULL_ADDER" instantiated to "FA2_2" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MULTIPLIER}.v":108)
+WARN  (NL0002) : The module "FULL_ADDER" instantiated to "FA2_3" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MULTIPLIER}.v":116)
+WARN  (NL0002) : The module "FULL_ADDER" instantiated to "FA3_0" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MULTIPLIER}.v":131)
+WARN  (NL0002) : The module "FULL_ADDER" instantiated to "FA3_1" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MULTIPLIER}.v":139)
+WARN  (NL0002) : The module "FULL_ADDER" instantiated to "FA3_2" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MULTIPLIER}.v":147)
+WARN  (NL0002) : The module "FULL_ADDER" instantiated to "FA3_3" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MULTIPLIER}.v":155)
+WARN  (NL0002) : The module "NOT" instantiated to "N1" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MUX4TO1.v":16)
+WARN  (NL0002) : The module "NOT" instantiated to "N2" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MUX4TO1.v":21)
+WARN  (NL0002) : The module "NOT" instantiated to "N1" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MUX4TO1.v":16)
+WARN  (NL0002) : The module "NOT" instantiated to "N2" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MUX4TO1.v":21)
+WARN  (NL0002) : The module "NOT" instantiated to "N1" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MUX4TO1.v":16)
+WARN  (NL0002) : The module "NOT" instantiated to "N2" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MUX4TO1.v":21)
+WARN  (NL0002) : The module "NOT" instantiated to "N1" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MUX4TO1.v":16)
+WARN  (NL0002) : The module "NOT" instantiated to "N2" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MUX4TO1.v":21)
+WARN  (NL0002) : The module "NOT" instantiated to "N1" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MUX4TO1.v":16)
+WARN  (NL0002) : The module "NOT" instantiated to "N2" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MUX4TO1.v":21)
+WARN  (NL0002) : The module "NOT" instantiated to "N1" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MUX4TO1.v":16)
+WARN  (NL0002) : The module "NOT" instantiated to "N2" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MUX4TO1.v":21)
+WARN  (NL0002) : The module "NOT" instantiated to "N1" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MUX4TO1.v":16)
+WARN  (NL0002) : The module "NOT" instantiated to "N2" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MUX4TO1.v":21)
+WARN  (NL0002) : The module "NOT" instantiated to "N1" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MUX4TO1.v":16)
+WARN  (NL0002) : The module "NOT" instantiated to "N2" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MUX4TO1.v":21)
+WARN  (NL0002) : The module "SUBTRACTOR_4BITS" instantiated to "SUBTRACTOR_IC" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\MAIN.v":30)
+WARN  (NL0002) : The module "ADDER_4BITS" instantiated to "ADDER_IC" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\SUBTRACTOR.v":34)
+WARN  (NL0002) : The module "FULL_ADDER" instantiated to "FA0" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\ADDER.v":21)
+WARN  (NL0002) : The module "FULL_ADDER" instantiated to "FA1" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\ADDER.v":30)
+WARN  (NL0002) : The module "FULL_ADDER" instantiated to "FA2" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\ADDER.v":39)
+WARN  (NL0002) : The module "FULL_ADDER" instantiated to "FA3" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\ADDER.v":48)
+WARN  (NL0002) : The module "NOT" instantiated to "NOT_IC" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\src\SUBTRACTOR.v":25)
+[95%] Generate netlist file "D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\impl\gwsynthesis\Calculadora_4bits.vg" completed
+[100%] Generate report file "D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\Calculadora_4bits\impl\gwsynthesis\Calculadora_4bits_syn.rpt.html" completed
+GowinSynthesis finish

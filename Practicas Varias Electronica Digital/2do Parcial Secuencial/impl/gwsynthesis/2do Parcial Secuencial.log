@@ -1,0 +1,70 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\2do Parcial Secuencial\src\MAIN.v.v'
+Undeclared symbol 'CLOCK_IN', assumed default net type 'wire'("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\2do Parcial Secuencial\src\MAIN.v.v":621)
+Compiling module 'MAIN'("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\2do Parcial Secuencial\src\MAIN.v.v":610)
+Compiling module 'CLOCK_DIVIDER'("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\2do Parcial Secuencial\src\MAIN.v.v":173)
+Compiling module 'INPUTS_FF_D3'("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\2do Parcial Secuencial\src\MAIN.v.v":2)
+Compiling module 'INPUTS_FF_D2'("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\2do Parcial Secuencial\src\MAIN.v.v":41)
+Compiling module 'INPUTS_FF_D1'("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\2do Parcial Secuencial\src\MAIN.v.v":80)
+Compiling module 'INPUTS_FF_D0'("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\2do Parcial Secuencial\src\MAIN.v.v":120)
+Compiling module 'FF_D'("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\2do Parcial Secuencial\src\MAIN.v.v":131)
+Compiling module 'DECODER_Da'("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\2do Parcial Secuencial\src\MAIN.v.v":194)
+Compiling module 'DECODER_Db'("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\2do Parcial Secuencial\src\MAIN.v.v":228)
+Compiling module 'DECODER_Dc'("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\2do Parcial Secuencial\src\MAIN.v.v":263)
+Compiling module 'DECODER_Dd'("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\2do Parcial Secuencial\src\MAIN.v.v":294)
+Compiling module 'DECODER_De'("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\2do Parcial Secuencial\src\MAIN.v.v":326)
+Compiling module 'DECODER_Df'("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\2do Parcial Secuencial\src\MAIN.v.v":363)
+Compiling module 'DECODER_Dg'("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\2do Parcial Secuencial\src\MAIN.v.v":397)
+Compiling module 'DECODER_Ia'("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\2do Parcial Secuencial\src\MAIN.v.v":425)
+Compiling module 'DECODER_Ib'("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\2do Parcial Secuencial\src\MAIN.v.v":455)
+Compiling module 'DECODER_Ic'("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\2do Parcial Secuencial\src\MAIN.v.v":482)
+Compiling module 'DECODER_Id'("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\2do Parcial Secuencial\src\MAIN.v.v":507)
+Compiling module 'DECODER_Ie'("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\2do Parcial Secuencial\src\MAIN.v.v":533)
+Compiling module 'DECODER_If'("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\2do Parcial Secuencial\src\MAIN.v.v":561)
+Compiling module 'DECODER_Ig'("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\2do Parcial Secuencial\src\MAIN.v.v":587)
+WARN  (EX1998) : Net 'CLOCK_IN' does not have a driver("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\2do Parcial Secuencial\src\MAIN.v.v":621)
+NOTE  (EX0101) : Current top module is "MAIN"
+[5%] Running netlist conversion ...
+WARN  (CV0016) : Input CLK_IN is unused("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\2do Parcial Secuencial\src\MAIN.v.v":612)
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+WARN  (NL0002) : The module "CLOCK_DIVIDER" instantiated to "CLK_DVD" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\2do Parcial Secuencial\src\MAIN.v.v":623)
+WARN  (NL0002) : The module "DECODER_Da" instantiated to "DEC_Da" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\2do Parcial Secuencial\src\MAIN.v.v":696)
+WARN  (NL0002) : The module "DECODER_Db" instantiated to "DEC_Db" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\2do Parcial Secuencial\src\MAIN.v.v":705)
+WARN  (NL0002) : The module "DECODER_Dc" instantiated to "DEC_Dc" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\2do Parcial Secuencial\src\MAIN.v.v":714)
+WARN  (NL0002) : The module "DECODER_Dd" instantiated to "DEC_Dd" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\2do Parcial Secuencial\src\MAIN.v.v":723)
+WARN  (NL0002) : The module "DECODER_De" instantiated to "DEC_De" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\2do Parcial Secuencial\src\MAIN.v.v":732)
+WARN  (NL0002) : The module "DECODER_Df" instantiated to "DEC_Df" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\2do Parcial Secuencial\src\MAIN.v.v":741)
+WARN  (NL0002) : The module "DECODER_Dg" instantiated to "DEC_Dg" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\2do Parcial Secuencial\src\MAIN.v.v":750)
+WARN  (NL0002) : The module "DECODER_Ia" instantiated to "DEC_Ia" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\2do Parcial Secuencial\src\MAIN.v.v":759)
+WARN  (NL0002) : The module "DECODER_Ib" instantiated to "DEC_Ib" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\2do Parcial Secuencial\src\MAIN.v.v":768)
+WARN  (NL0002) : The module "DECODER_Ic" instantiated to "DEC_Ic" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\2do Parcial Secuencial\src\MAIN.v.v":777)
+WARN  (NL0002) : The module "DECODER_Id" instantiated to "DEC_Id" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\2do Parcial Secuencial\src\MAIN.v.v":786)
+WARN  (NL0002) : The module "DECODER_Ie" instantiated to "DEC_Ie" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\2do Parcial Secuencial\src\MAIN.v.v":795)
+WARN  (NL0002) : The module "DECODER_If" instantiated to "DEC_If" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\2do Parcial Secuencial\src\MAIN.v.v":804)
+WARN  (NL0002) : The module "DECODER_Ig" instantiated to "DEC_Ig" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\2do Parcial Secuencial\src\MAIN.v.v":813)
+WARN  (NL0002) : The module "FF_D" instantiated to "FF_A" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\2do Parcial Secuencial\src\MAIN.v.v":666)
+WARN  (NL0002) : The module "FF_D" instantiated to "FF_B" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\2do Parcial Secuencial\src\MAIN.v.v":673)
+WARN  (NL0002) : The module "FF_D" instantiated to "FF_C" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\2do Parcial Secuencial\src\MAIN.v.v":680)
+WARN  (NL0002) : The module "FF_D" instantiated to "FF_D" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\2do Parcial Secuencial\src\MAIN.v.v":687)
+WARN  (NL0002) : The module "INPUTS_FF_D0" instantiated to "I_FF_D0" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\2do Parcial Secuencial\src\MAIN.v.v":659)
+WARN  (NL0002) : The module "INPUTS_FF_D1" instantiated to "I_FF_D1" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\2do Parcial Secuencial\src\MAIN.v.v":653)
+WARN  (NL0002) : The module "INPUTS_FF_D2" instantiated to "I_FF_D2" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\2do Parcial Secuencial\src\MAIN.v.v":643)
+WARN  (NL0002) : The module "INPUTS_FF_D3" instantiated to "I_FF_D3" is swept in optimizing("D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\2do Parcial Secuencial\src\MAIN.v.v":633)
+[95%] Generate netlist file "D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\2do Parcial Secuencial\impl\gwsynthesis\2do Parcial Secuencial.vg" completed
+[100%] Generate report file "D:\ARSS\Alex\ITLA\6to Cuatrimestre\Lab Electronica Digital\2do Parcial\2do Parcial Secuencial\impl\gwsynthesis\2do Parcial Secuencial_syn.rpt.html" completed
+GowinSynthesis finish

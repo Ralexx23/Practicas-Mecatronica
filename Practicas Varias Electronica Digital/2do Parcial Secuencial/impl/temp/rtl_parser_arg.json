@@ -1,0 +1,17 @@
+{
+ "Device" : "GW5A-25A",
+ "Files" : [
+  {
+   "Path" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/src/MAIN.v.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "D:/ARSS/Alex/ITLA/6to Cuatrimestre/Lab Electronica Digital/2do Parcial/2do Parcial Secuencial/impl/temp/rtl_parser.result",
+ "Top" : "",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}

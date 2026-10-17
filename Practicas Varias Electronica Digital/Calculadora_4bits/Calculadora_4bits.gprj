@@ -1,0 +1,21 @@
+<?xml version="1" encoding="UTF-8"?>
+<!DOCTYPE gowin-fpga-project>
+<Project>
+    <Template>FPGA</Template>
+    <Version>5</Version>
+    <Device name="GW5A-25A" pn="GW5A-LV25MG121NC1/I0">gw5a25a-002</Device>
+    <FileList>
+        <File path="src/ADDER.v" type="file.verilog" enable="1"/>
+        <File path="src/Checkquality.v" type="file.verilog" enable="1"/>
+        <File path="src/ComIgualdad.v" type="file.verilog" enable="1"/>
+        <File path="src/CompMayor.v" type="file.verilog" enable="1"/>
+        <File path="src/FULLADDER.v" type="file.verilog" enable="1"/>
+        <File path="src/MAIN.v" type="file.verilog" enable="1"/>
+        <File path="src/MULTIPLIER}.v" type="file.verilog" enable="1"/>
+        <File path="src/MUX4TO1.v" type="file.verilog" enable="1"/>
+        <File path="src/MUX8TO1.v" type="file.verilog" enable="1"/>
+        <File path="src/NOT.v" type="file.verilog" enable="1"/>
+        <File path="src/SUBTRACTOR.v" type="file.verilog" enable="1"/>
+        <File path="src/Calculadora_4bits.cst" type="file.cst" enable="1"/>
+    </FileList>
+</Project>
